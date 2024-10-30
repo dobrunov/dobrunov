@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@82616ec4-04af-42ad-9524-7dd0987734e7)
+[![wakatime](https://wakatime.com/badge/user/82616ec4-04af-42ad-9524-7dd0987734e7.svg)](https://wakatime.com/@82616ec4-04af-42ad-9524-7dd0987734e7)
 
 <!--
 **dobrunov/dobrunov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
